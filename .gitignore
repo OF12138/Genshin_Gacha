@@ -7,3 +7,5 @@ template_unpacked/
 *.bat
 *.md
 *.txt
+*.xlsx
+upload/
