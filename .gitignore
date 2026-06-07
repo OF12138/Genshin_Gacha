@@ -1,0 +1,9 @@
+diag.cpp
+*.exe
+*.docx
+.claude/
+template_unpacked/
+*.tmp
+*.bat
+*.md
+*.txt
